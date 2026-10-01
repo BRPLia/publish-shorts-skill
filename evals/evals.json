@@ -1,0 +1,23 @@
+{
+  "skill_name": "buffer-shorts",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Configura mi cuenta de Buffer para Mi marca. Tengo una key en .local/key-input.txt. Detecta mis redes y déjalo listo; todavía no publiques.",
+      "expected_output": "Añade una cuenta mediante key-file sin exponer la key, muestra canales descubiertos y no llama publish.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Añade otra cuenta de Buffer con su key local. Quiero juntar tres redes de una cuenta y otras tres de la segunda bajo la marca Mi marca.",
+      "expected_output": "Conserva ambas cuentas, selecciona seis refs descubiertas y guarda un grupo sin afirmar que dos keys de la misma cuenta dan seis canales.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Prepara este Short de automatización para mis redes Mi marca. Pon título y descripción. La última publicación quedó en sending; no quiero duplicarla.",
+      "expected_output": "Genera un plan local con copy específico, consulta el estado del envío anterior y no reenvía ni usa republish automáticamente.",
+      "files": []
+    }
+  ]
+}

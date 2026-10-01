@@ -1,0 +1,20 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+
+# Exclude private runtime and work notes from git archive, even if tracked.
+.local export-ignore
+.local/** export-ignore
+.state export-ignore
+.state/** export-ignore
+.env* export-ignore
+*.key export-ignore
+*.pem export-ignore
+bitacora.md export-ignore
+_mini-agent.md export-ignore
+_doc export-ignore
+_doc/** export-ignore
+evals/review.json export-ignore
+__pycache__ export-ignore
+**/__pycache__/** export-ignore

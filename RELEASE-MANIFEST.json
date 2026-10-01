@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "87de6bd369ee90b0e1602080be83e503afefb8fde260ea71516e887caee39d3d"
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "f018ed15b7b59ef4cc991a39fd6c3e6cf6a0bdc85be479020af6ecf466c3a771"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "c289f82ec707ff46f8b2b359b0704123599e50f9c57a3c92b6fad7d3e4112a5b"
+    },
+    {
+      "path": "README.md",
+      "sha256": "225afc0095493c874f18e69cacee374ec95c4ae543170b3c83ea2400ae45ffe6"
+    },
+    {
+      "path": "SECURITY.md",
+      "sha256": "47b1195caea7f8ba1711b9d5a6c09395016d2c7149e4d77662ec30d3cdf5e5ed"
+    },
+    {
+      "path": "scripts/buffer_shorts.py",
+      "sha256": "ddb34146b674a20c7e3784738565a8b87fc81cef84191d9fdb3744d9c982e318"
+    },
+    {
+      "path": "scripts/prepare_release.py",
+      "sha256": "8644656c759f717d404c4ceb65db15f1d6edd21aaab7ec5b762824df8fffeff9"
+    },
+    {
+      "path": "examples/copy.json",
+      "sha256": "0063fadb934aa32a3c29c82e7e8a5b0c792a74bd52606657f3bc052463157165"
+    },
+    {
+      "path": "references/onboarding.md",
+      "sha256": "a2f807d7946722d1a1a198484fcd02d82b04e0dd2a5702bba0a4ede06289346d"
+    },
+    {
+      "path": "references/buffer-contract.md",
+      "sha256": "9b783eb2bbc57ece5fd9f2439fe6ae142e799e0a21b1a74f983d166c550dd609"
+    },
+    {
+      "path": "references/copy-refresh.md",
+      "sha256": "a06a58b5c6e85250795697f84d47df22ee78d42347cdf8c18b7794286339c52e"
+    },
+    {
+      "path": "tests/test_buffer_shorts.py",
+      "sha256": "103dac3f4cb60acab389c5c1ffd75aaadb1f22fbe4d5cc963cfee723f40d6199"
+    },
+    {
+      "path": "tests/test_release.py",
+      "sha256": "7325bdbac1aea95be10471b1174986878794c7aa6f1496a190ae2d6a586ecdb7"
+    },
+    {
+      "path": "evals/evals.json",
+      "sha256": "9e0cb75c5620cea1723bf41f89b93bacba1ef0b7422428df8fd02b257adb6a08"
+    }
+  ],
+  "runtime_state_included": false,
+  "media_included": false
+}

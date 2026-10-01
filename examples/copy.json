@@ -1,0 +1,20 @@
+{
+  "youtube": {
+    "title": "Cómo publico un Short desde mi agente",
+    "description": "Demostración de publicación mediante Buffer. Herramienta y guía: añade tu enlace real.",
+    "category_id": "28"
+  },
+  "tiktok": {
+    "caption": "Del video terminado a tus redes con un agente. #Automatizacion #IA"
+  },
+  "instagram": {
+    "caption": "Así preparo y publico un video corto con un agente y Buffer. Guarda el tutorial para probarlo."
+  },
+  "facebook": {
+    "caption": "Una demostración de cómo publicar un video corto mediante un agente y Buffer."
+  },
+  "linkedin": {
+    "title": "Automatización de publicación con agentes",
+    "caption": "Un ejemplo de cómo separar preparación de textos, envío y verificación del resultado."
+  }
+}
